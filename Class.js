@@ -20,7 +20,7 @@ class EmployeeDetials{
 }
 
 let emp1= new EmployeeDetials();
-emp1.setEmployeeDetials('Walter','4609','495945948');
+emp1.setEmployeeDetials('Walter','4622','495945948');
 console.log(emp1.getEmpName());
 console.log(emp1.getEmpId());
 console.log(emp1.getEmpPhnomber());
